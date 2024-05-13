@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Sanz-serif;
+  font-size: 16px;
+  background: #000;
+}
+
+.contenedor {
+  width: 90%;
+  max-width: 1000px;
+  margin: 20px;
+  overflow: hidden;
+}/*# sourceMappingURL=generales.css.map */
